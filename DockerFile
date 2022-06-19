@@ -1,0 +1,7 @@
+FROM python
+
+WORKDIR /CODING
+
+COPY . .
+
+CMD ["python", "index.py"]
