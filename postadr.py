@@ -1,1 +1,1 @@
-print ("Volgogradskaya oblact, 400011\n street Universitetsky prospekt\n dom 48 kv50")
+print ("Volgogradskaya oblact, 400056\n street Universitetsky prospekt\n dom 11 kv11")
